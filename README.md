@@ -76,5 +76,3 @@ Use the following credentials:
 ## Conclusion
 This setup ensures that all services fetch their configurations dynamically and register themselves with Eureka for service discovery. Modify the properties in the `config-microservice-centralized` repository to manage configurations centrally.
 
-Enjoy building microservices with Spring Boot!
-
